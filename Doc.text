@@ -1,0 +1,22 @@
+Youtube Link=>https://www.youtube.com/watch?v=lUkxSnJ7aDw
+installation material ui=>npm install @mui/material @emotion/react @emotion/styled
+install icons=>npm install @mui/icons-material
+=>Navigation backgroundcolor=>  <AppBar sx={{background:'#063970'}}>
+====================
+extra
+project Nikhil Blog MERN=>
+
+
+===============
+
+1>To create .gtiignore file=> touch .gitignore
+
+-----------------------
+To add github repo ->https://github.com/mohinimraut/NavbarHtmlCssRouting/tree/master/src
+
+1>git init
+2>adding origin
+3>git add .
+4>git commit -m "first commit"
+5>git push -u origin master
+
